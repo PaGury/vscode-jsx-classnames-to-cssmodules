@@ -1,5 +1,9 @@
 {
-  "name": "vscode-jsx-classnames-to-cssmodules",
+	"name": "vscode-jsx-classnames-to-cssmodules",
+	"repository": {
+		"url": "https://github.com/PaGury/vscode-jsx-classnames-to-cssmodules",
+		"type": "git"
+	},
 	"displayName": "jsx-classnames-to-cssmodules",
 	"description": "Convert jsx string className to css modules style className.",
 	"version": "1.0.0",
