@@ -1,6 +1,4 @@
-# jsx-classnames-to-cssmodules README
-
-This is the README for your extension "jsx-classnames-to-cssmodules". After writing up a brief description, we recommend including the following sections.
+# jsx-classnames-to-cssmodules
 
 ## Features
 
